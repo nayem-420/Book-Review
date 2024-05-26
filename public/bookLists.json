@@ -1,0 +1,80 @@
+[
+    {
+      "bookId": 1,
+      "bookName": "The Silent Patient",
+      "author": "Alex Michaelides",
+      "image": "https://i.ibb.co/bHRb0KM/The-Silent-Patient.png",
+      "review": "A shocking psychological thriller with twists and turns.",
+      "totalPages": 336,
+      "rating": 4.5,
+      "category": "Fiction",
+      "tags": ["Suspense", "Psychological"],
+      "publisher": "Celadon Books",
+      "yearOfPublishing": 2019
+    },
+    {
+      "bookId": 2,
+      "bookName": "Educated",
+      "author": "Tara Westover",
+      "image": "https://i.ibb.co/qNZff7h/Educated.jpg",
+      "review": "A memoir of a woman who escapes her survivalist family and goes on to earn a PhD.",
+      "totalPages": 352,
+      "rating": 4.7,
+      "category": "Non-Fiction",
+      "tags": ["Memoir", "Inspiration"],
+      "publisher": "Random House",
+      "yearOfPublishing": 2018
+    },
+    {
+      "bookId": 3,
+      "bookName": "Becoming",
+      "author": "Michelle Obama",
+      "image": "https://i.ibb.co/SBHZwGr/Becoming.jpg",
+      "review": "An intimate and inspiring memoir by the former First Lady of the United States.",
+      "totalPages": 448,
+      "rating": 4.8,
+      "category": "Biography",
+      "tags": ["Memoir", "Inspiration"],
+      "publisher": "Crown Publishing Group",
+      "yearOfPublishing": 2018
+    },
+    {
+      "bookId": 4,
+      "bookName": "Where the Crawdads Sing",
+      "author": "Delia Owens",
+      "image": "https://i.ibb.co/vYd9mBC/De.jpg",
+      "review": "A mystery and coming-of-age novel set in the marshlands of North Carolina.",
+      "totalPages": 384,
+      "rating": 4.6,
+      "category": "Fiction",
+      "tags": ["Mystery", "Drama"],
+      "publisher": "G.P. Putnam's Sons",
+      "yearOfPublishing": 2018
+    },
+    {
+      "bookId": 5,
+      "bookName": "The Testaments",
+      "author": "Margaret Atwood",
+      "image": "https://i.ibb.co/p1ZKJqR/The-Testaments-Atwood-novel.png",
+      "review": "A powerful sequel to 'The Handmaid's Tale' set in the dystopian world of Gilead.",
+      "totalPages": 432,
+      "rating": 4.3,
+      "category": "Science Fiction",
+      "tags": ["Dystopia", "Feminism"],
+      "publisher": "Nan A. Talese",
+      "yearOfPublishing": 2019
+    },
+    {
+      "bookId": 6,
+      "bookName": "The Alchemist",
+      "author": "Paulo Coelho",
+      "image": "https://i.ibb.co/wRJmJfc/18144590.jpg",
+      "review": "A philosophical novel about a young Andalusian shepherd's journey to the pyramids of Egypt.",
+      "totalPages": 208,
+      "rating": 4.2,
+      "category": "Fiction",
+      "tags": ["Philosophy", "Adventure"],
+      "publisher": "HarperOne",
+      "yearOfPublishing": 1988
+    }
+  ]  
