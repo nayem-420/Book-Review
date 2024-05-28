@@ -1,4 +1,3 @@
-// src/Utility/localStorage.js
 const getStoredBookStorage = () => {
     const storedBookStorage = localStorage.getItem('book-storage');
     if (storedBookStorage) {
