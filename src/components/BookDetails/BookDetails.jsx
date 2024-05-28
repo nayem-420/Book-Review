@@ -13,7 +13,6 @@ const BookDetails = () => {
   const [wishlistBooks, setWishlistBooks] = useState(getStoredBookStorage('wishlistBooks') || []);
 
   useEffect(() => {
-    // Sync the state with local storage
     localStorage.setItem('readBooks', JSON.stringify(readBooks));
     localStorage.setItem('wishlistBooks', JSON.stringify(wishlistBooks));
   }, [readBooks, wishlistBooks]);
