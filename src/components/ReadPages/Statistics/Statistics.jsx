@@ -1,4 +1,5 @@
 import { BarChart, Bar, Cell, XAxis, YAxis, CartesianGrid } from "recharts";
+import PropTypes from 'prop-types';
 
 const Statistics = () => {
   const data = [
@@ -57,6 +58,14 @@ const Statistics = () => {
       </BarChart>
     </div>
   );
+};
+
+Statistics.propTypes = {
+    fill: PropTypes.string.isRequired,
+    x: PropTypes.number.isRequired,
+    y: PropTypes.number.isRequired,
+    width: PropTypes.number.isRequired,
+    height: PropTypes.number.isRequired,
 };
 
 export default Statistics;

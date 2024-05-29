@@ -1,4 +1,3 @@
-import { Link } from "react-router-dom";
 import image from "../../assets/book.png";
 import Books from "../Books/Books";
 
@@ -14,9 +13,7 @@ const Home = () => {
             Books to freshen up your bookshelf
           </h2>
           <div className="card-actions">
-            <Link to={'/book/id'}>
-              <button className="btn btn-success">View The List</button>
-            </Link>
+            <button className="btn btn-success">View The List</button>
           </div>
         </div>
       </div>
